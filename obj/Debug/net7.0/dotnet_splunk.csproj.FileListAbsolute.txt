@@ -1,0 +1,5 @@
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net7.0/dotnet_splunk.csproj.AssemblyReference.cache
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net7.0/dotnet_splunk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net7.0/dotnet_splunk.AssemblyInfoInputs.cache
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net7.0/dotnet_splunk.AssemblyInfo.cs
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net7.0/dotnet_splunk.csproj.CoreCompileInputs.cache

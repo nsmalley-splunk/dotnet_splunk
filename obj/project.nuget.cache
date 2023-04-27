@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBj8KFm5wTmntyr92Xy3kEgf9rqcVYRlQ/S+O51heYPzoRzB5NtpkPS2nSX9ZJmQVXtFXVRfr87c27vH6qWoVw==",
+  "success": true,
+  "projectFilePath": "/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/dotnet_splunk.csproj",
+  "expectedPackageFiles": [
+    "/Users/nsmalley/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/nsmalley/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/nsmalley/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.16/microsoft.netcore.app.host.osx-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

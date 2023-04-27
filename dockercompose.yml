@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  your_application:
+    build: .
+    ports:
+      - "80:80"
+    logging:
+      driver: splunk
+      options:
+        splunk-token: "YOUR_SPLUNK_HEC_TOKEN"
+        splunk-url: "http://YOUR_SPLUNK_HEC_HOST:8088"
+        splunk-insecureskipverify: "true"
+        splunk-format: "json"
+        tag: "dotnet_test"
+

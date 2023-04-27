@@ -1,0 +1,15 @@
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net6.0/dotnet_splunk.csproj.AssemblyReference.cache
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net6.0/dotnet_splunk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net6.0/dotnet_splunk.AssemblyInfoInputs.cache
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net6.0/dotnet_splunk.AssemblyInfo.cs
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net6.0/dotnet_splunk.csproj.CoreCompileInputs.cache
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/bin/Debug/net6.0/dotnet_splunk
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/bin/Debug/net6.0/dotnet_splunk.deps.json
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/bin/Debug/net6.0/dotnet_splunk.runtimeconfig.json
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/bin/Debug/net6.0/dotnet_splunk.dll
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/bin/Debug/net6.0/dotnet_splunk.pdb
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net6.0/dotnet_splunk.dll
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net6.0/refint/dotnet_splunk.dll
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net6.0/dotnet_splunk.pdb
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net6.0/dotnet_splunk.genruntimeconfig.cache
+/Users/nsmalley/git/dotnet_splunk/dotnet_splunk/obj/Debug/net6.0/ref/dotnet_splunk.dll
